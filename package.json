@@ -1,0 +1,20 @@
+{
+  "name": "weather_forecast_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "node-telegram-bot-api": "^0.64.0",
+    "nodemon": "^3.0.1",
+    "telebot": "^1.4.1",
+    "telegraf": "^4.15.0",
+    "telegraph": "^0.8.22"
+  }
+}
